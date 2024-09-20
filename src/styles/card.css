@@ -88,7 +88,8 @@ a:hover{
     width: 100px;
     color: white;
     font-size: 12px;
-    background: linear-gradient(to right,#048c85, #7f9a98); /* #2FEBD4, #DEFFFD*/    border-radius: 10px;
+    font-weight: bold;
+    /* background: linear-gradient(to right,#048c85, #7f9a98); #2FEBD4, #DEFFFD    border-radius: 10px; */
     padding: 5px 10px 5px 10px;
 }
 #fade {
