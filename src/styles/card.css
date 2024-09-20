@@ -91,7 +91,7 @@ a:hover{
     font-weight: bold;
     /* background: linear-gradient(to right,#048c85, #7f9a98); #2FEBD4, #DEFFFD    border-radius: 10px; */
     padding: 5px 10px 5px 10px;
-    border-radius: 5px;
+    
 }
 #fade {
     opacity: 80;
